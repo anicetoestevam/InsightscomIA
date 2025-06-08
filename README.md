@@ -40,13 +40,28 @@ Temos que comparar os dados dos arquivos para identificar padrões de venda, per
 
     O produto NEW MEGANIUM RG 40XXV  foi o mais vendido, com 37 unidades comercializadas no período analisado e com destaque no Canadá (via Shopee e Etsy). Ele aparece consistentemente em todas as plataformas e apresenta cerca de 35% dos pedidos com cupons promocionais, sugerindo melhoria comercial. A plataforma Shopee  liderou as vendas deste modelo, respondendo por cerca de 65% das transações.
 
-# Crítica sobre as respostas
+# Crítica sobre as respostas e feedback
 
   - Mas a plataforma Shopee foi líder em todos os países?  E manteve a receita  e vendas mais altas?
-  - O Impacto dos cupons ocorreu em todos os países e para todos os produtos?
-  - Sobre a Sazonalidade, Julho e agosto foram os meses com maior movimento comercial em todos os países?
     
+    - Shopee liderou em Canadá, Reino Unido e globalmente  em volume total de vendas.
+    - AliExpress  se destacou em vendas para EUA e Alemanha.
+    - Etsy  teve desempenho forte na Austrália e no Reino Unido.
+      
+  - O Impacto dos cupons ocorreu em todos os países e para todos os produtos?
+    
+    - Cupons tiveram maior impacto no Canadá e Reino Unido .
+    - Produtos como RG40XXV e RG35XX responderam melhor ao uso de cupons .
+    - Nem todos os países nem todos os produtos respondem da mesma forma.    
+
+  - Sobre a Sazonalidade, Julho e agosto foram os meses com maior movimento comercial em todos os países?
+
+    - Julho e agosto foram meses fortes globalmente , especialmente para Canadá, Alemanha e Reino Unido .
+    - EUA e Austrália mostraram picos um pouco diferentes , sugerindo que fatores locais (como feriados ou promoções) podem ter influenciado mais que a sazonalidade pura.
+
 # Olhar crítico
 
+É perceptível visualmente que em julho e agosto venderam muito pois agosto foi presente em 4 países (menos no Reino Unido). Mas precisamos observar que em julho foi presente apenas em 2 países (Canadá e Alemanha), assim como em novembro (Reino Unido e Canadá). Por último setembro esteve presente em 3 países (Austrália, Estados Unidos e Reino Unido). 
 
+Ao meu ver entre julho e agosto deveriam ter menos cupons de incentivo de compra para RG35XX (mas nos outros produtos daria cupons) nos USA (porque não aderiu a cupons) e mais cupons de incentivo de compra para Austrália no mesmo período, enquanto em setembro faria uma liquidação nesses 2 países (sem esperar por outubro e novembro). No caso do Canadá e Reino Unido daria cupons de incentivo de compra ou liquidação em novembro.
      
